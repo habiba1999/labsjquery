@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(to left,
+        #607eb5f5,
+    #afccdf,
+    #d7dfe5);
+}
+#drop{
+    background-color: black;
+    width: 20%;
+    height: 280px;
+    border-radius: 50%;
+    text-align: center;
+    color: rgb(240, 240, 240);
+}
+span{
+    font-weight: bold;
+    font-size: 15px;
+}
+#drag{
+    width: 200px;
+    background-color: #ffffffb1;
+    margin-left: 1000px;
+    margin-top: 150px;
+}
+img{
+    margin-left: 24px;
+    margin-top: 11px;
+    width: 150px;
+}
+h2{
+    margin-left: 38px;
+    color: aliceblue;
+}

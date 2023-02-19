@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to left,
+        #607eb5f5,
+    #afccdf,
+    #d7dfe5);
+    }
+    .frozen{
+        text-align: center;
+        text-shadow: 2px 2px cornflowerblue;
+        color: rgb(4, 57, 157);
+        font-family: Cursive;
+    }
+    .container{
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-content: stretch;
+        height: 400px;
+    }
+    img{
+        height: 200px;
+        cursor: pointer;
+        }
+
+    .card-body{
+        display: none;
+    }
